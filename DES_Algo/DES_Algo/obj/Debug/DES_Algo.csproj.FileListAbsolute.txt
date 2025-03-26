@@ -1,0 +1,7 @@
+F:\projects\DES_Algo\DES_Algo\bin\Debug\DES_Algo.exe.config
+F:\projects\DES_Algo\DES_Algo\bin\Debug\DES_Algo.exe
+F:\projects\DES_Algo\DES_Algo\bin\Debug\DES_Algo.pdb
+F:\projects\DES_Algo\DES_Algo\obj\Debug\DES_Algo.csproj.AssemblyReference.cache
+F:\projects\DES_Algo\DES_Algo\obj\Debug\DES_Algo.csproj.CoreCompileInputs.cache
+F:\projects\DES_Algo\DES_Algo\obj\Debug\DES_Algo.exe
+F:\projects\DES_Algo\DES_Algo\obj\Debug\DES_Algo.pdb
