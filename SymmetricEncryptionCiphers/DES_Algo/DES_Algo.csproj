@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AES-Algorithm\AES.cs" />
+    <Compile Include="AES-Algorithm\KeyExpansionHelper.cs" />
+    <Compile Include="AES-Algorithm\Model\Round.cs" />
+    <Compile Include="AES-Algorithm\Model\RoundKey.cs" />
+    <Compile Include="AES-Algorithm\Model\RoundKeyWord.cs" />
+    <Compile Include="AES-Algorithm\Model\RoundWord.cs" />
+    <Compile Include="AES-Algorithm\RoundHelper.cs" />
+    <Compile Include="AES-Algorithm\RoundKeyGenerator.cs" />
     <Compile Include="DES-Algorithm\DES.cs" />
     <Compile Include="DES-Algorithm\DES_KeyScheduling_Helper.cs" />
     <Compile Include="DES-Algorithm\DES_Round_Helper.cs" />
@@ -56,5 +64,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects\\DES_Algo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\aes-algorithm\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\des-algorithm\\des_round_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\des-algorithm\\des_round_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\des-algorithm\\roundkeysgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\des-algorithm\\roundkeysgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\des-algorithm\\des_keyscheduling_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\des-algorithm\\des_keyscheduling_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\des-algorithm\\des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\des-algorithm\\des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\des-algorithm\\models\\pt_block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\des-algorithm\\models\\pt_block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|f:\\projects\\des_algo\\des_algo\\des-algorithm\\models\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\des-algorithm\\models\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\aes-algorithm\\roundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\roundhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\aes-algorithm\\model\\roundword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\model\\roundword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\aes-algorithm\\model\\roundkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\model\\roundkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\aes-algorithm\\model\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\model\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\aes-algorithm\\roundkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\roundkeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|F:\\projects\\DES_Algo\\des_algo\\aes-algorithm\\keyexpansionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96C087-0021-44F2-8E8E-CAF93D261D0D}|DES_Algo\\DES_Algo.csproj|solutionrelative:des_algo\\aes-algorithm\\keyexpansionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DES.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\DES.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\DES-Algorithm\\DES.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\DES.cs",
+              "RelativeToolTip": "DES_Algo\\DES-Algorithm\\DES.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DES_KeyScheduling_Helper.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\DES_KeyScheduling_Helper.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\DES-Algorithm\\DES_KeyScheduling_Helper.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\DES_KeyScheduling_Helper.cs",
+              "RelativeToolTip": "DES_Algo\\DES-Algorithm\\DES_KeyScheduling_Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DES_Round_Helper.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\DES_Round_Helper.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\DES-Algorithm\\DES_Round_Helper.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\DES_Round_Helper.cs",
+              "RelativeToolTip": "DES_Algo\\DES-Algorithm\\DES_Round_Helper.cs",
+              "ViewState": "AQIAAAgAAABAZGZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:19.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundKeysGenerator.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\RoundKeysGenerator.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\DES-Algorithm\\RoundKeysGenerator.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\RoundKeysGenerator.cs",
+              "RelativeToolTip": "DES_Algo\\DES-Algorithm\\RoundKeysGenerator.cs",
+              "ViewState": "AQIAAAMAAACAMTMzMzP7vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:17.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PT_Block.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\Models\\PT_Block.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\DES-Algorithm\\Models\\PT_Block.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\Models\\PT_Block.cs",
+              "RelativeToolTip": "DES_Algo\\DES-Algorithm\\Models\\PT_Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:55:56.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AES.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\AES.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\AES.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\AES.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\AES.cs",
+              "ViewState": "AQIAAAUAAAAAMTMzMzMbwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:37:50.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Round.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\Models\\Round.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\DES-Algorithm\\Models\\Round.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\DES-Algorithm\\Models\\Round.cs",
+              "RelativeToolTip": "DES_Algo\\DES-Algorithm\\Models\\Round.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:10.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoundKey.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\Model\\RoundKey.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\Model\\RoundKey.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\Model\\RoundKey.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\Model\\RoundKey.cs",
+              "ViewState": "AQIAABkAAAAA9v/////9vyUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:41:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoundWord.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\Model\\RoundWord.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\Model\\RoundWord.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\Model\\RoundWord.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\Model\\RoundWord.cs",
+              "ViewState": "AQIAAAUAAAAwZmZmZmYhwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:04:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoundKeyGenerator.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\RoundKeyGenerator.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\RoundKeyGenerator.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\RoundKeyGenerator.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\RoundKeyGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAMzMzMzMrwAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:01:45.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoundHelper.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\RoundHelper.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\RoundHelper.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\RoundHelper.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\RoundHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:07:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\Program.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\Program.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\Program.cs",
+              "RelativeToolTip": "DES_Algo\\Program.cs",
+              "ViewState": "AQIAACAAAAAwl5mZmRkuwDsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:44:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Round.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\Model\\Round.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\Model\\Round.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\Model\\Round.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\Model\\Round.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:40:32.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KeyExpansionHelper.cs",
+              "DocumentMoniker": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\KeyExpansionHelper.cs",
+              "RelativeDocumentMoniker": "DES_Algo\\AES-Algorithm\\KeyExpansionHelper.cs",
+              "ToolTip": "F:\\projects\\DES_Algo\\DES_Algo\\AES-Algorithm\\KeyExpansionHelper.cs",
+              "RelativeToolTip": "DES_Algo\\AES-Algorithm\\KeyExpansionHelper.cs",
+              "ViewState": "AQIAAAwAAABAz8zMzMwiwIMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:31:46.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
